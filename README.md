@@ -6,4 +6,10 @@ A pesquisa fez parte da linha de pesquisa em sociologia da ciência, tecnologia 
 
 O texto da dissertação pode ser acessado na página docs, e reportagens sobre a pesquisa foram feitas no [NEXO](https://www.nexojornal.com.br/academico/2022/05/26/As-percep%C3%A7%C3%B5es-dos-brasileiros-sobre-as-mudan%C3%A7as-clim%C3%A1ticas) e revista [Ciência Hoje](https://cienciahoje.org.br/artigo/quatro-brasis-frente-as-mudancas-climaticas/). Além disso os resultados da analise podem ser acessados em um dashboard feito para o prograama de bolsas da pesquisa de percepção das mudanças climáticas ITS/Yale ([https://www.percepcaoclimatica.com.br/](https://www.percepcaoclimatica.com.br/)), que pode ser acessado [aqui](https://marinattomas.github.io/publicos.mudanca.climatica.br/).
 
-O script pode utilizado desde que seja feita a citação correta, seguindo as regras de licença ( mais em licença e citação)
+O script pode utilizado desde que seja feita a citação correta, seguindo as regras de licença ( mais em licença e citação).
+
+---
+A disponibilizaçao deste código baseou no artigo:
+
+WILSON, G. et al. Good enough practices in scientific computing. PLOS Computational Biology, v. 13, n. 6, p. e1005510, 22 jun. 2017. 
+
